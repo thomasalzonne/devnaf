@@ -1,0 +1,208 @@
+ 
+          <!-- Unhide when data will be available -->
+          <div v-if="false">
+            <AccordionFilter
+              class="accordion"
+              :title="$t('Common.morphology')"
+              :btn-title="$t('Common.find_my_morphology_2')"
+            >
+              <div class="accordion__content accordion__grid">
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__morphology-icon"
+                    name="morphology_sablier"
+                  />
+                  <span class="catalog-filters-modal__morphology-button-title">
+                    Sablier
+                  </span>
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__morphology-icon"
+                    name="morphology_triangle"
+                  />
+                  <span class="catalog-filters-modal__morphology-button-title">
+                    Triangle
+                  </span>
+                </button>
+                <button
+                  class="catalog-filters-modal__morphology-button catalog-filters-modal__morphology-button--active"
+                >
+                  <SvgIcon
+                    class="catalog-filters-modal__morphology-icon"
+                    name="morphology_rectangle"
+                  />
+                  <span class="catalog-filters-modal__morphology-button-title">
+                    Rectangle
+                  </span>
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__morphology-icon"
+                    name="morphology_sablier_plus"
+                  />
+                  <span class="catalog-filters-modal__morphology-button-title">
+                    Sablier +
+                  </span>
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__morphology-icon"
+                    name="morphology_ronde"
+                  />
+                  <span class="catalog-filters-modal__morphology-button-title">
+                    Ronde
+                  </span>
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__morphology-icon"
+                    name="morphology_triangle_inv"
+                  />
+                  <span class="catalog-filters-modal__morphology-button-title">
+                    Triangle inv.
+                  </span>
+                </button>
+              </div>
+            </AccordionFilter>
+
+            <AccordionFilter
+              class="accordion accordion--product-type"
+              :title="$t('Common.product_type')"
+            >
+              <div class="accordion__content accordion__grid">
+                <button class="catalog-filters-modal__filter-button">
+                  Longue
+                </button>
+                <button
+                  class="catalog-filters-modal__filter-button catalog-filters-modal__filter-button--active"
+                >
+                  Courte
+                </button>
+                <button class="catalog-filters-modal__filter-button">
+                  Midi
+                </button>
+                <button class="catalog-filters-modal__filter-button">
+                  Fluide
+                </button>
+                <button class="catalog-filters-modal__filter-button">
+                  Célébrations
+                </button>
+              </div>
+            </AccordionFilter>
+
+            <AccordionFilter
+              class="accordion accordion--finitions"
+              :title="$t('Common.finitions')"
+            >
+              <div class="accordion__content accordion__grid">
+                <button class="catalog-filters-modal__filter-button">
+                  Avec manches
+                </button>
+                <button
+                  class="catalog-filters-modal__filter-button catalog-filters-modal__filter-button--active"
+                >
+                  Sans manches
+                </button>
+                <button class="catalog-filters-modal__filter-button">
+                  Bretelles
+                </button>
+                <button class="catalog-filters-modal__filter-button">
+                  Bustier
+                </button>
+              </div>
+            </AccordionFilter>
+
+            <AccordionFilter
+              class="accordion accordion--formes"
+              :title="$t('Common.shapes')"
+            >
+              <div class="accordion__content accordion__grid">
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_1"
+                  />
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_2"
+                  />
+                </button>
+                <button
+                  class="catalog-filters-modal__morphology-button catalog-filters-modal__morphology-button--active"
+                >
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_3"
+                  />
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_4"
+                  />
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_5"
+                  />
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_6"
+                  />
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_7"
+                  />
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_8"
+                  />
+                </button>
+                <button class="catalog-filters-modal__morphology-button">
+                  <SvgIcon
+                    class="catalog-filters-modal__formes-icon"
+                    name="formes_9"
+                  />
+                </button>
+              </div>
+            </AccordionFilter>
+
+            <AccordionFilter
+              class="accordion accordion--materials"
+              :title="$t('Common.materials')"
+            >
+              <div class="accordion__content accordion__grid">
+                <button class="catalog-filters-modal__filter-button">
+                  Jean ou Denim
+                </button>
+                <button class="catalog-filters-modal__filter-button">
+                  Dentelle
+                </button>
+                <button class="catalog-filters-modal__filter-button">
+                  Lin
+                </button>
+                <button
+                  class="catalog-filters-modal__filter-button catalog-filters-modal__filter-button--active"
+                >
+                  Coton
+                </button>
+              </div>
+            </AccordionFilter>
+
+            <div class="catalog-filters-modal__toggle-container">
+              <p class="catalog-filters-modal__toggle-title">
+                {{ $t('Common.accessories') }}
+              </p>
+              <AppToggle class="catalog-filters-modal__toggle" type="small" />
+            </div>
+          </div>

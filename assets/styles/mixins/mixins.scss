@@ -1,0 +1,59 @@
+@import '~/assets/styles/variables.scss';
+
+@mixin media-min {
+  @media screen and (max-width: $breakpoint-min) {
+    @content;
+  }
+}
+
+@mixin media-sm {
+  @media screen and (min-width: $breakpoint-min) {
+    @content;
+  }
+}
+
+@mixin media-md {
+  @media screen and (min-width: $breakpoint-sm) {
+    @content;
+  }
+}
+
+@mixin media-lg {
+  @media screen and (min-width: $breakpoint-lg) {
+    @content;
+  }
+}
+
+@mixin media-xl {
+  @media screen and (min-width: $breakpoint-xl) {
+    @content;
+  }
+}
+
+@mixin media-xxl {
+  @media screen and (min-width: $breakpoint-xxl) {
+    @content;
+  }
+}
+
+@mixin media-xxxl {
+  @media screen and (min-width: $breakpoint-xxxl) {
+    @content;
+  }
+}
+
+@mixin custom-scroll {
+  &::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  &::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: $color-light-grey;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: $color-black;
+    border-radius: 10px;
+  }
+}

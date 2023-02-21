@@ -1,0 +1,2667 @@
+[
+  {
+    "lat": "41.3925697",
+    "lng": "2.1601232",
+    "category": "tiendas",
+    "name": "NAFNAF Barcelona",
+    "country": "España",
+    "address": "C/ Rambla Catalunya, 78",
+    "city": "Barcelona",
+    "zipcode": "08008",
+    "phone": "934 86 14 80",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.982643",
+    "lng": "2.822072",
+    "category": "tiendas",
+    "name": "NAFNAF Girona",
+    "country": "España",
+    "address": "C/ Nou, 11",
+    "city": "Girona",
+    "zipcode": "17001",
+    "phone": "972 21 67 42",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "20:30" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "20:30" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "20:30" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "20:30" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "20:30" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "36.533046",
+    "lng": "-6.297081",
+    "category": "tiendas",
+    "name": "NAFNAF Cádiz",
+    "country": "España",
+    "address": "C/ Ancha, 32",
+    "city": "Cádiz",
+    "zipcode": "11001",
+    "phone": "956 22 86 19",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:30", "to": "14:00" },
+        "pm": { "from": "17:30", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:30", "to": "14:00" },
+        "pm": { "from": "17:30", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:30", "to": "14:00" },
+        "pm": { "from": "17:30", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:30", "to": "14:00" },
+        "pm": { "from": "17:30", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "10:30", "to": "14:00" },
+        "pm": { "from": "17:30", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:30", "to": "14:00" },
+        "pm": { "from": "17:30", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "36.8387984",
+    "lng": "-2.4618846",
+    "category": "tiendas",
+    "name": "NAFNAF Almería",
+    "country": "España",
+    "address": "C/ Méndez Nuñez, 17",
+    "city": "Almería",
+    "zipcode": "04001",
+    "phone": "950 53 51 18",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": "17:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": "17:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": "17:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": "17:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": "17:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": "17:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.392747",
+    "lng": "-3.207131",
+    "category": "tiendas",
+    "name": "NAFNAF Alcázar de San Juan",
+    "country": "España",
+    "address": "C/ General Alcañiz, 6",
+    "city": "Alcázar de San Juan",
+    "zipcode": "13600",
+    "phone": "926 54 67 99",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:30", "to": "20:30" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:30", "to": "20:30" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:30", "to": "20:30" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:30", "to": "20:30" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:30", "to": "20:30" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": null, "to": null }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "42.811730",
+    "lng": "-1.642869",
+    "category": "tiendas",
+    "name": "NAFNAF Pamplona",
+    "country": "España",
+    "address": "C/ Padre Calatayud, 1",
+    "city": "Pamplona",
+    "zipcode": "31003",
+    "phone": "94 815 42 26",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "28.488993",
+    "lng": "-16.318409",
+    "category": "tiendas",
+    "name": "NAFNAF La Laguna",
+    "country": "ESPAÑA",
+    "address": "C/ Herradores, 75",
+    "city": "San Cristóbal de La Laguna",
+    "zipcode": "38201",
+    "phone": "922 31 50 00",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:30" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:30" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:30" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "13:30" },
+        "pm": { "from": "17:00", "to": "20:30" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": "17:00", "to": "20:30" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "14:00" },
+        "pm": { "from": null, "to": null }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.5389935",
+    "lng": "-7.268295",
+    "category": "tiendas",
+    "name": "NAFNAF Guarda",
+    "country": "Portugal",
+    "address": "Rua do Comercio, 40 e 42",
+    "city": "Guarda",
+    "zipcode": "6300-586",
+    "phone": "+351 27 12 21 077",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.150190",
+    "lng": "-8.864969",
+    "category": "tiendas",
+    "name": "NAFNAF Figueira da Foz",
+    "country": "Portugal",
+    "address": "Rua Candido dos Reis ED. PT. Loja 7",
+    "city": "Figueira da Foz",
+    "zipcode": "3080",
+    "phone": "+351 23 34 20 927",
+    "opening": {
+      "monday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "16:00" }
+      },
+      "tuesday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "wednesday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "thursday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "friday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "saturday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.746197",
+    "lng": "-8.805679",
+    "category": "tiendas",
+    "name": "NAFNAF Leiria",
+    "country": "Portugal",
+    "address": "Rua Capitao Mouzinho de Alburquerque, 9",
+    "city": "Leiria",
+    "zipcode": "2400-194",
+    "phone": "+351 24 48 35 565",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.916676",
+    "lng": "-8.626530",
+    "category": "tiendas",
+    "name": "NAFNAF Pombal",
+    "country": "Portugal",
+    "address": "Avda. Herois do Ultramar, 25",
+    "city": "Pombal",
+    "zipcode": "3100-462",
+    "phone": "+351 23 62 11 040",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "19:30" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "13:00" },
+        "pm": { "from": "15:00", "to": "19:30" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.4081064",
+    "lng": "-8.5206747",
+    "category": "tiendas",
+    "name": "NAFNAF Famalicao",
+    "country": "Portugal",
+    "address": "Avda. 25 de Abril, 111",
+    "city": "Vila Nova de Famalicão",
+    "zipcode": "4760-101",
+    "phone": "+351 25 23 19 444",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "13:00" },
+        "pm": { "from": "14:30", "to": "19:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "13:00" },
+        "pm": { "from": "14:30", "to": "19:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "13:00" },
+        "pm": { "from": "14:30", "to": "19:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "13:00" },
+        "pm": { "from": "14:30", "to": "19:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "13:00" },
+        "pm": { "from": "14:30", "to": "19:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "13:00" },
+        "pm": { "from": "15:00", "to": "18:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.4178151",
+    "lng": "-3.706674",
+    "category": "corners",
+    "name": "El Corte Inglés Preciados",
+    "country": "España",
+    "address": "C/ Preciados, 3",
+    "city": "Madrid",
+    "zipcode": "28013",
+    "phone": "913798000",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      }
+    }
+  },
+  {
+    "lat": "41.3876311",
+    "lng": "2.1688369",
+    "category": "corners",
+    "name": "El Corte Inglés Plaça Catalunya",
+    "country": "España",
+    "address": "Plaça de Catalunya, 14",
+    "city": "Barcelona",
+    "zipcode": "8002",
+    "phone": "933063800",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.4245905",
+    "lng": "-3.6763119",
+    "category": "corners",
+    "name": "El Corte Inglés Goya",
+    "country": "España",
+    "address": "C/ Goya, 76",
+    "city": "Madrid",
+    "zipcode": "28009",
+    "phone": "914329300",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      }
+    }
+  },
+  {
+    "lat": "43.2612249",
+    "lng": "-2.9312285",
+    "category": "corners",
+    "name": "El Corte Inglés Bilbao",
+    "country": "España",
+    "address": "Gran Vía, 7-9",
+    "city": "Bilbao",
+    "zipcode": "48001",
+    "phone": "944253500",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.3874081",
+    "lng": "2.1259359",
+    "category": "corners",
+    "name": "El Corte Inglés Diagonal-Barcelona",
+    "country": "España",
+    "address": "Avda. Diagonal, 617",
+    "city": "Barcelona",
+    "zipcode": "8028",
+    "phone": "933667100",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.4708088",
+    "lng": "-0.3736404",
+    "category": "corners",
+    "name": "El Corte Inglés Pintor Sorolla",
+    "country": "España",
+    "address": "C/ Pintor Sorolla, 26",
+    "city": "Valencia",
+    "zipcode": "46002",
+    "phone": "963159500",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "37.9412583",
+    "lng": "-1.1708987",
+    "category": "corners",
+    "name": "El Corte Inglés Murcia",
+    "country": "España",
+    "address": "Avda. De La Libertad, 1",
+    "city": "Murcia",
+    "zipcode": "30009",
+    "phone": "968298050",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      }
+    }
+  },
+  {
+    "lat": "40.4301261",
+    "lng": "-3.7173638",
+    "category": "corners",
+    "name": "El Corte Inglés Princesa-Madrid",
+    "country": "España",
+    "address": "C/ Princesa, 56",
+    "city": "Madrid",
+    "zipcode": "28008",
+    "phone": "914546000",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      }
+    }
+  },
+  {
+    "lat": "42.23191",
+    "lng": "-8.719164",
+    "category": "corners",
+    "name": "El Corte Inglés Gran Via-Vigo",
+    "country": "España",
+    "address": "Gran vía, 25",
+    "city": "Vigo",
+    "zipcode": "36204",
+    "phone": "986415111",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "28.1353747",
+    "lng": "-15.4339287",
+    "category": "corners",
+    "name": "El Corte Inglés Las Palmas",
+    "country": "España",
+    "address": "Avda. José Mesa y López, 18",
+    "city": "Las Palmas de Gran Canaria",
+    "zipcode": "35007",
+    "phone": "928263000",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:30" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:30" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:30" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:30" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:30" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:30" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:30" }
+      }
+    }
+  },
+  {
+    "lat": "36.7175057",
+    "lng": "-4.4304894",
+    "category": "corners",
+    "name": "El Corte Inglés Málaga",
+    "country": "España",
+    "address": "Avda. Andalucía, 4 Y 6",
+    "city": "Málaga",
+    "zipcode": "29002",
+    "phone": "952300000",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.6453367",
+    "lng": "-0.8867847",
+    "category": "corners",
+    "name": "El Corte Inglés Sagasta-Zaragoza",
+    "country": "España",
+    "address": "Paseo Sagasta, 3",
+    "city": "Zaragoza",
+    "zipcode": "50008",
+    "phone": "976211121",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.4805897",
+    "lng": "-0.3925844",
+    "category": "corners",
+    "name": "El Corte Inglés Nuevo Centro",
+    "country": "España",
+    "address": "Avda. Menéndez Pidal, 15",
+    "city": "Valencia",
+    "zipcode": "46009",
+    "phone": "963474142",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "37.3867228",
+    "lng": "-5.9738211",
+    "category": "corners",
+    "name": "El Corte Inglés Nervión-Sevilla",
+    "country": "España",
+    "address": "C/ Luís Montoto, 122-128",
+    "city": "Sevilla",
+    "zipcode": "41005",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "43.354589",
+    "lng": "-8.403284",
+    "category": "corners",
+    "name": "El Corte Inglés A Coruña",
+    "country": "España",
+    "address": "C/ Ramón y Cajal, 57-59",
+    "city": "A Coruña",
+    "zipcode": "15006",
+    "phone": "981290011",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "38.343191",
+    "lng": "-0.493466",
+    "category": "corners",
+    "name": "El Corte Inglés Alicante",
+    "country": "España",
+    "address": "Avda. Maissonnave, 53",
+    "city": "Alicante",
+    "zipcode": "3003",
+    "phone": "965925001",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.554605",
+    "lng": "2.098050",
+    "category": "corners",
+    "name": "El Corte Inglés Sabadell",
+    "country": "España",
+    "address": "Avda. Francesc Macià, 58-60",
+    "city": "Sabadell",
+    "zipcode": "8026",
+    "phone": "937230000",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.573298",
+    "lng": "2.656447",
+    "category": "corners",
+    "name": "El Corte Inglés Avenidas-Mallorca",
+    "country": "España",
+    "address": "Avda. Alexandre Roselló, 12-16",
+    "city": "Palma de Mallorca",
+    "zipcode": "7002",
+    "phone": "971770177",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "37.386495",
+    "lng": "-6.028860",
+    "category": "corners",
+    "name": "El Corte Inglés San Juan-Sevilla",
+    "country": "España",
+    "address": "Camino de las Erillas, s/n",
+    "city": "San Juan Aznalfarache",
+    "zipcode": "41920",
+    "phone": "954170400",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "43.544328",
+    "lng": "-5.935110",
+    "category": "corners",
+    "name": "El Corte Inglés Avilés",
+    "country": "España",
+    "address": "Ctra. Finca La Tejera-La Carriona, s/n",
+    "city": "Avilés",
+    "zipcode": "33400",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.457550",
+    "lng": "-0.347057",
+    "category": "corners",
+    "name": "El Corte Inglés Avda.Francia-Valencia",
+    "country": "España",
+    "address": "C/ Pintor Maella, 37",
+    "city": "Valencia",
+    "zipcode": "46023",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.498193",
+    "lng": "-3.661092",
+    "category": "corners",
+    "name": "El Corte Inglés Sanchinarro-Madrid",
+    "country": "España",
+    "address": "C/ Margarita de Parma, N 1",
+    "city": "Madrid",
+    "zipcode": "28050",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      }
+    }
+  },
+  {
+    "lat": "37.178008",
+    "lng": "-3.612616",
+    "category": "corners",
+    "name": "El Corte Inglés Arabial-Granada",
+    "country": "España",
+    "address": "C/ Arabial, 97",
+    "city": "Granada",
+    "zipcode": "18003",
+    "phone": "958292161",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.970827",
+    "lng": "2.814364",
+    "category": "corners",
+    "name": "El Corte Inglés Girona",
+    "country": "España",
+    "address": "C/ Barcelona, 106-110",
+    "city": "Girona",
+    "zipcode": "17003",
+    "phone": "972188400",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.358526",
+    "lng": "-3.816277",
+    "category": "corners",
+    "name": "El Corte Inglés S.José Valderas",
+    "country": "España",
+    "address": "Ctra. Extremadura, KM11.500",
+    "city": "Alcorcón",
+    "zipcode": "28925",
+    "phone": "916122112",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      }
+    }
+  },
+  {
+    "lat": "43.524971",
+    "lng": "-5.679034",
+    "category": "corners",
+    "name": "El Corte Inglés Gijón",
+    "country": "España",
+    "address": "C/ Ramón Areces, 2",
+    "city": "Gijón",
+    "zipcode": "33211",
+    "phone": "985990074",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.395520",
+    "lng": "-3.674994",
+    "category": "corners",
+    "name": "El Corte Inglés Méndez Álvaro",
+    "country": "España",
+    "address": "c/ Retama, 8",
+    "city": "Madrid",
+    "zipcode": "28045",
+    "phone": "914688000",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      }
+    }
+  },
+  {
+    "lat": "41.6089959",
+    "lng": "-0.8900381",
+    "category": "corners",
+    "name": "El Corte Inglés Puerto Venecia-Zaragoza",
+    "country": "España",
+    "address": "Avda. Isla de Murano, 15",
+    "city": "Zaragoza",
+    "zipcode": "50021",
+    "phone": "976188035",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "43.3453458",
+    "lng": "-8.4298551",
+    "category": "corners",
+    "name": "El Corte Inglés Marineda",
+    "country": "España",
+    "address": "P.I. A Grela",
+    "city": "A Coruña",
+    "zipcode": "15008",
+    "phone": "981189350",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "36.7728625",
+    "lng": "-2.8065288",
+    "category": "corners",
+    "name": "El Corte Inglés El Ejido",
+    "country": "España",
+    "address": "Paseo Pedro Ponce, s/n",
+    "city": "El Ejido",
+    "zipcode": "4700",
+    "phone": "950571688",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "38.0169467",
+    "lng": "-1.1658594",
+    "category": "corners",
+    "name": "El Corte Inglés El Tiro",
+    "country": "España",
+    "address": "C/ Ronda Universidad - Av.Severo Ochoa",
+    "city": "Murcia",
+    "zipcode": "30100",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.3295754",
+    "lng": "-3.7296568",
+    "category": "corners",
+    "name": "El Corte Inglés El Bercial",
+    "country": "España",
+    "address": "Avda. Del Comandante J.M. Ripollés, 2",
+    "city": "Getafe",
+    "zipcode": "28905",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "38.258391",
+    "lng": "-0.7155123",
+    "category": "corners",
+    "name": "El Corte Inglés Elche",
+    "country": "España",
+    "address": "Av. Del Baix Vinalopó, 2",
+    "city": "Elx",
+    "zipcode": "3204",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "38.9828391",
+    "lng": "-1.8554016",
+    "category": "corners",
+    "name": "El Corte Inglés Albacete II",
+    "country": "España",
+    "address": "Av. España, s/n.",
+    "city": "Albacete",
+    "zipcode": "02002",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "37.3877712",
+    "lng": "-5.941923",
+    "category": "corners",
+    "name": "El Corte Inglés Hipercor-Sevilla",
+    "country": "España",
+    "address": "Ctra. Sevilla-Málaga, Km.1",
+    "city": "Sevilla",
+    "zipcode": "41007",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.6227284",
+    "lng": "-3.168268",
+    "category": "corners",
+    "name": "El Corte Inglés Guadalajara",
+    "country": "España",
+    "address": "Avda. Eduardo Guitan, s/n",
+    "city": "Guadalajara",
+    "zipcode": "19002",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.121309",
+    "lng": "1.240646",
+    "category": "corners",
+    "name": "El Corte Inglés Tarragona",
+    "country": "España",
+    "address": "Avda. de la República Argentina",
+    "city": "Tarragona",
+    "zipcode": "43005",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.4803141",
+    "lng": "-3.707164",
+    "category": "corners",
+    "name": "El Corte Inglés Vaguada",
+    "country": "España",
+    "address": "C/ Ginzio de Lima, s/n",
+    "city": "Madrid",
+    "zipcode": "28029",
+    "phone": "913874000",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      }
+    }
+  },
+  {
+    "lat": "28.0973764",
+    "lng": "-15.4561207",
+    "category": "corners",
+    "name": "El Corte Inglés Siete Palmas",
+    "country": "España",
+    "address": "Avda. Pintor Felo Monzón, s/n",
+    "city": "Las Palmas de Gran canaria",
+    "zipcode": "35013",
+    "phone": "928414124",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:30" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:30" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:30" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:30" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:30" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:30" }
+      },
+      "sunday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:30" }
+      }
+    }
+  },
+  {
+    "lat": "42.8443383",
+    "lng": "-2.6694088",
+    "category": "corners",
+    "name": "El Corte Inglés Vitoria",
+    "country": "España",
+    "address": "Pza. Nuestra Señora de los Desamparados, 3",
+    "city": "Vitoria",
+    "zipcode": "1004",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "37.1705231",
+    "lng": "-3.5983812",
+    "category": "corners",
+    "name": "El Corte Inglés Genil-Granada",
+    "country": "España",
+    "address": "Ctra de la Virgen, 20-22",
+    "city": "Granada",
+    "zipcode": "18005",
+    "phone": "958223240",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "38.993389",
+    "lng": "-1.857921",
+    "category": "corners",
+    "name": "El Corte Inglés Caba-Albacete",
+    "country": "España",
+    "address": "C/ Caba, 4",
+    "city": "Albacete",
+    "zipcode": "2001",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.3901777",
+    "lng": "2.1343511",
+    "category": "corners",
+    "name": "El Corte Inglés Illa Diagonal",
+    "country": "España",
+    "address": "Avda. Diagonal, 545",
+    "city": "Barcelona",
+    "zipcode": "08028",
+    "phone": "933667100",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.572109",
+    "lng": "2.644212",
+    "category": "corners",
+    "name": "El Corte Inglés Algeciras",
+    "country": "España",
+    "address": "Paseo Juan Pérez Arriete,S/N",
+    "city": "Algeciras",
+    "zipcode": "11204",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "43.363921",
+    "lng": "-5.851469",
+    "category": "corners",
+    "name": "El Corte Inglés Uria-Oviedo",
+    "country": "España",
+    "address": "C/ Uria, 9",
+    "city": "Oviedo",
+    "zipcode": "33003",
+    "phone": "985109000",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "40.479445",
+    "lng": "-3.401406",
+    "category": "corners",
+    "name": "El Corte Inglés Alcalá de Henares",
+    "country": "España",
+    "address": "Ctra. de Barcelona, Km.30",
+    "city": "Alcalá de Henares",
+    "zipcode": "28802",
+    "phone": "918872800",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": "11:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      }
+    }
+  },
+  {
+    "lat": "36.521858",
+    "lng": "-6.277213",
+    "category": "corners",
+    "name": "El Corte Inglés Cádiz",
+    "country": "España",
+    "address": "Avda. de las Cortes de Cádiz, 1",
+    "city": "Cádiz",
+    "zipcode": "11011",
+    "phone": "956297100",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "39.987646",
+    "lng": "-0.048073",
+    "category": "corners",
+    "name": "El Corte Inglés Castellón",
+    "country": "España",
+    "address": "c/ Gandía C/V Paseo de la Morella",
+    "city": "Castellón de la Plana",
+    "zipcode": "12006",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.436227",
+    "lng": "2.181353",
+    "category": "corners",
+    "name": "El Corte Inglés Can Dragó-Barcelona",
+    "country": "España",
+    "address": "Paseo Andreu Nin, 51",
+    "city": "Barcelona",
+    "zipcode": "8016",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "36.548019",
+    "lng": "-4.632485",
+    "category": "corners",
+    "name": "El Corte Inglés Mijas",
+    "country": "España",
+    "address": "C/ San Juan Esquina C/ Santa Gema",
+    "city": "Mijas",
+    "zipcode": "29640",
+    "phone": "",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "42.862467",
+    "lng": "-8.543197",
+    "category": "corners",
+    "name": "El Corte Inglés Santiago",
+    "country": "España",
+    "address": "Rua do Restoll, 50",
+    "city": "Santiago de Compostela",
+    "zipcode": "15702",
+    "phone": "981527200",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "41.354424",
+    "lng": "2.087801",
+    "category": "corners",
+    "name": "El Corte Inglés Cornellà",
+    "country": "España",
+    "address": "C/ Pablo Picasso, s/n",
+    "city": "Cornellà de Llobregat",
+    "zipcode": "8940",
+    "phone": "934801800",
+    "opening": {
+      "monday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "tuesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "wednesday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "thursday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "friday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "saturday": {
+        "am": { "from": "09:30", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "21:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  },
+  {
+    "lat": "43.437154",
+    "lng": "-3.839595",
+    "category": "corners",
+    "name": "El Corte Inglés Santander",
+    "country": "España",
+    "address": "Ctra. Nacional, 634",
+    "city": "Santander",
+    "zipcode": "39011",
+    "phone": "942328400",
+    "opening": {
+      "monday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "tuesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "wednesday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "thursday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "friday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "saturday": {
+        "am": { "from": "10:00", "to": "12:00" },
+        "pm": { "from": "12:00", "to": "22:00" }
+      },
+      "sunday": {
+        "am": { "from": null, "to": null },
+        "pm": { "from": null, "to": null }
+      }
+    }
+  }
+]

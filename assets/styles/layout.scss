@@ -1,0 +1,36 @@
+.layout {
+  position: relative;
+
+  &--checkout {
+    .layout__content {
+      margin-top: $header-height-mobile;
+    }
+  }
+
+  &__header {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 1001;
+    width: 100%;
+  }
+}
+
+@include media-lg {
+  .layout {
+    &--checkout {
+      .layout__content {
+        margin-top: 0;
+      }
+    }
+
+    &__header {
+      top: 0;
+      bottom: unset;
+    }
+
+    &__content {
+      padding-top: $header-height-desktop;
+    }
+  }
+}
